@@ -1,4 +1,4 @@
-# Aquarium-Simulator
+# Aquarium Simulator
 
 ### About ###
 This is an aquarium simulator made with Processing 3.3. It is intended as a study of crowd movement, specifically with schools of fish. Small prey fish move in schools while the larger predator fish chase after the prey. Small fish reproduce after a certain amount of time, resulting in an egg at the bottom of the screen.
